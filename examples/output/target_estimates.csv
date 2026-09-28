@@ -1,0 +1,7 @@
+date,id,prediction,covered,participant_ids
+2024-06-01,T1,4.666667,yes,S1;S2;S3
+2024-06-01,T2,2,yes,S1
+2024-06-01,T3,20,yes,S5
+2024-06-02,T1,1.5,yes,S1;S2;S3
+2024-06-02,T2,0,yes,S1
+2024-06-02,T3,,no,

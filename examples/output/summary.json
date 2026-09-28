@@ -1,0 +1,25 @@
+{
+  "daily": {
+    "2024-06-01": {
+      "total": 4,
+      "covered": 3,
+      "mean_error": -0.44444444444444464,
+      "mean_absolute_error": 3.111111111111111,
+      "root_mean_squared_error": 3.8490017945975055
+    },
+    "2024-06-02": {
+      "total": 4,
+      "covered": 4,
+      "mean_error": -4.440892098500626e-16,
+      "mean_absolute_error": 2.25,
+      "root_mean_squared_error": 2.691653766738954
+    }
+  },
+  "overall": {
+    "total": 8,
+    "covered": 7,
+    "mean_error": -0.19047619047619083,
+    "mean_absolute_error": 2.6190476190476195,
+    "root_mean_squared_error": 3.238704424489266
+  }
+}
